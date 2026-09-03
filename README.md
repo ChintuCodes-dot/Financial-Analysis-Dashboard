@@ -387,7 +387,7 @@ Add screenshots of the three dashboard pages here.
 
 Example:
 
-![Index Dashboard](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-09-03%20193742.png)
+![Index Dashboard]()
 
 ![Summary]()
 
