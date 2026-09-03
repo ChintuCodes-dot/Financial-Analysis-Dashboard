@@ -379,18 +379,19 @@ YTD, QTD, and MTD analysis allows users to evaluate performance at different tim
 Add screenshots of the three dashboard pages here.
 
 
-📊 Summary
-📈 Profit / Location Analysis
-📦 Product / Location Analysis
+📊 Index
+📈 Summary
+📦 Location Analysis
+
 
 
 Example:
 
-![Summary Dashboard](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-09-03%20193742.png)
+![Index Dashboard](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-09-03%20193742.png)
 
-![Profit Location Analysis](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-08-29%20142706.png)
+![Summary]()
 
-![Product Location Analysis](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-08-29%20142706.png)
+![Location Analysis]()
 
 
 
