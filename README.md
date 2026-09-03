@@ -388,7 +388,7 @@ Example:
 
 ![Summary Dashboard](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-09-03%20193742.png)
 
-![Profit Location Analysis](images/profit-location-analysis.png)
+![Profit Location Analysis](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-08-29%20142706.png)
 
 ![Product Location Analysis](images/product-location-analysis.png)
 
