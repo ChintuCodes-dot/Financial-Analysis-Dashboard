@@ -387,7 +387,7 @@ Add screenshots of the three dashboard pages here.
 
 Example:
 
-![Index Dashboard]()
+![Index](https://github.com/ChintuCodes-dot/Financial-Analysis-Dashboard/blob/main/Index.png)
 
 ![Summary]()
 
