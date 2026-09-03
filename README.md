@@ -140,10 +140,6 @@ A hierarchical date slicer allows users to select:
 
 This selection drives the financial analysis throughout the report.
 
-
-
-# 📊 2. Profit / Location Analysis
-
 This page focuses on understanding profitability and revenue contribution across different business dimensions.
 
 ## Profit Margin % by Discount Band
@@ -180,9 +176,9 @@ These visuals enable users to compare profitability and revenue contribution fro
 
 
 
-# 🌎 3. Product / Location Analysis
+# 🌎 2.  Location Analysis
 
-The Product / Location Analysis page provides detailed geographical and product-level analysis.
+The Location Analysis page provides detailed geographical and product-level analysis.
 
 ## 📍 Location Analysis
 
