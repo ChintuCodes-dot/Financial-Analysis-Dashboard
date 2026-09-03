@@ -389,7 +389,7 @@ Example:
 
 ![Index](https://github.com/ChintuCodes-dot/Financial-Analysis-Dashboard/blob/main/Index.png)
 
-![Summary]()
+![Summary](https://github.com/ChintuCodes-dot/Financial-Analysis-Dashboard/blob/main/Summary.png)
 
 ![Location Analysis]()
 
