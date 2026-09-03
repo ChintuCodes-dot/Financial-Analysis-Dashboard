@@ -10,9 +10,9 @@ The dashboard allows users to analyze key financial metrics such as **Gross Prof
 
 The report is structured into three analytical pages:
 
-1. 🏠 **Summary**
-2. 📍 **Profit / Location Analysis**
-3. 📦 **Product / Location Analysis**
+1. 🏠 **Index**
+2. 📍 **Summary**
+3. 📦 **Location Analysis**
 
 The dashboard uses interactive slicers and dynamic calculations to allow users to analyze performance based on **Year, Quarter, Month, Segment, Business, Country, City, Category, Product, and Sub-Product**.
 
