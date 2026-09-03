@@ -386,7 +386,7 @@ Add screenshots of the three dashboard pages here.
 
 Example:
 
-![Summary Dashboard](images/summary.png)
+![Summary Dashboard](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-09-03%20193742.png)
 
 ![Profit Location Analysis](images/profit-location-analysis.png)
 
