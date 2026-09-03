@@ -390,7 +390,7 @@ Example:
 
 ![Profit Location Analysis](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-08-29%20142706.png)
 
-![Product Location Analysis](images/product-location-analysis.png)
+![Product Location Analysis](https://github.com/ChintuCodes-dot/Sales-Analytics-Dashboard/blob/main/Screenshot%202026-08-29%20142706.png)
 
 
 
@@ -467,6 +467,5 @@ Potential improvements for future versions include:
 
 Data Analyst | Power BI | SQL | Python | Excel
 
----
 
 ⭐ If you found this project useful, consider giving the repository a star.
